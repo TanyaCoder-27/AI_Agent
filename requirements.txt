@@ -1,0 +1,8 @@
+fastapi
+groq
+python-dotenv
+SQLAlchemy
+uvicorn
+agno
+google-genai
+uvicorn
