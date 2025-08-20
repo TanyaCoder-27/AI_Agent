@@ -15,7 +15,7 @@ A friendly AI-powered todo list manager built with Agno and FastAPI.
 
 ## Workflow 
 
-[![AI Agent](https://drive.google.com/uc?export=view&id=1uuS3f9z10MjxJDovg3Aeu4HJCAx4-nnp)](https://your-link-here.com)
+![AI Agent](https://drive.google.com/uc?export=view&id=1uuS3f9z10MjxJDovg3Aeu4HJCAx4-nnp)
 
 ## Setup
 
