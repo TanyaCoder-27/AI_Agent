@@ -13,6 +13,10 @@ A friendly AI-powered todo list manager built with Agno and FastAPI.
 - 🗄️ **SQLite Storage**: Persistent data storage
 - 🌐 **Web API**: RESTful API endpoints for integration
 
+## Workflow 
+
+![AI Agent](https://drive.google.com/file/d/1uuS3f9z10MjxJDovg3Aeu4HJCAx4-nnp/view?usp=sharing)
+
 ## Setup
 
 1. **Install dependencies**:
