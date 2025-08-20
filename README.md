@@ -107,4 +107,18 @@ The AI agent can understand natural language requests like:
 - The agent provides friendly, encouraging responses with emojis
 - All database operations are wrapped in proper error handling
 
+## Outputs
+
+![1](outputs/1.png)
+![2](outputs/2.png)
+![3](outputs/3.png)
+![4](outputs/4.png)
+![5](outputs/5.png)
+![6](outputs/6.png)
+![7](outputs/7.png)
+![8](outputs/8.png)
+![9](outputs/9.png)'
+![10](outputs/10.png)
+![11](outputs/11.png)
+
 ### All Credits go to [Ganesh](https://github.com/mc095) for all the codes.
